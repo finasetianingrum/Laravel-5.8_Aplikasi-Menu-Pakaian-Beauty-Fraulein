@@ -1,4 +1,4 @@
-# Laravel_Aplikasi-Menu-Pakaian-Beauty-Fraulein
+# Laravel-5.8_Aplikasi-Menu-Pakaian-Beauty-Fraulein
 Beauty Fraulein is a simple website using Laravel framework. Beauty Fraulein is used for users to know the price, photo and availability of an outfit.
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
